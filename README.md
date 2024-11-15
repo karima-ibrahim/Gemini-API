@@ -18,3 +18,7 @@ Today you will learn about the conceptual underpinning of embeddings and vector 
 -The 2nd livestream is tomorrow with Paige Bailey (https://x.com/DynamicWebPaige) and special guests: Omid Fatemieh, Jinhyuk Lee, Alan Li, Iftekhar Naim, Anant Nawalgaria, Yan Qiao, and Xiaoqi Ren.
 -Unfortunately, to ensure a fix to our livestream issues, we need to push back our broadcast time. We'll send another email with updated livestream info soon.
 -Be sure to ask all your questions about the podcast, readings, and code lab in the ⁠5dgai-q-and-a channel on Discord. You'll get Kaggle swag if your question is chosen for discussion during the livestream!
+
+# Kaggle GenAI, Tips & Tricks :
+
+https://www.youtube.com/watch?v=v5bhhJ9FD60
