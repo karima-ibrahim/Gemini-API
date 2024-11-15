@@ -1,4 +1,4 @@
-# Welcome back to the Kaggle 5-day Generative AI course!
+# Welcome to the Kaggle 5-day Generative AI course!
 
 
 
