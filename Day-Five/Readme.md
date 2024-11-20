@@ -9,4 +9,4 @@
 ## 💡What You’ll Learn
 
 Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's tools for foundation models and generative AI applications.
-Day 5's livestream: https://www.youtube.com/live/uCFW0i9xrBc
+#### Day 5's livestream: https://www.youtube.com/live/uCFW0i9xrBc
