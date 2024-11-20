@@ -23,3 +23,4 @@ Today you will learn about the conceptual underpinning of embeddings and vector 
 ## Kaggle GenAI, Tips & Tricks :
 
 https://www.youtube.com/watch?v=v5bhhJ9FD60
+#### Day 2’s  livestream - https://www.youtube.com/live/86GZC56rQCc?si=trAoT7PVtYC5LQ7B
