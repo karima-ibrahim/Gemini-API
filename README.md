@@ -3,7 +3,7 @@
 
 
 
-## Day 1 : Foundational Large Language Models & Text Generation & Prompt Engineering.
+## ![Day 1 : Foundational Large Language Models & Text Generation & Prompt Engineering.](https://github.com/karima-ibrahim/Gemini-API/tree/main/Day-One) 
 
 #### Authors: Mohammadamin Barektain, Anant Nawalgaria, Daniel J. Mankowitz, Majd Al Merey, Yaniv Leviathan, Massimo Mascaro, Matan Kalman, Elena Buchatskaya, Aliaksei Severyn, and Antonio Gulli, Lee Boonstra
 ### Introduction
@@ -18,7 +18,7 @@ This whitepaper discusses prompt engineering in detail. We will look into the va
 
 # 
 
-## Day 2 : Embeddings & Vector Stores.
+## ![Day 2 : Embeddings & Vector Stores.](https://github.com/karima-ibrahim/Gemini-API/tree/main/Day-Two)
 
 #### Authors: Anant Nawalgaria and Xiaoqi Ren
 ### Introduction
@@ -31,7 +31,7 @@ Modern machine learning thrives on diverse data—images, text, audio, and more.
 
 # 
 
-## Day 3 : Agents.
+## ![Day 3 : Agents.](https://github.com/karima-ibrahim/Gemini-API/tree/main/Day-Three)
 
 #### Authors: Julia Wiesinger, Patrick Marlow and Vladimir Vuskovic
 ### Introduction
@@ -39,7 +39,7 @@ Humans are fantastic at messy pattern recognition tasks. However, they often rel
 
 # 
 
-## Day 4 : Solving Domain-Specific Problems Using LLMs
+## ![Day 4 : Solving Domain-Specific Problems Using LLMs.](https://github.com/karima-ibrahim/Gemini-API/tree/main/Day-Four)
 #### Authors: Christopher Semturs, Shekoofeh Azizi, Scott Coull, Umesh Shankar and Wieland Holfelder
 ### Introduction
 Large language models (LLMs) have emerged as powerful tools for tackling complex challenges in numerous domains. While early iterations focused on general-purpose tasks, recent developments have highlighted the potential of fine-tuning LLMs to address specific problems within specialized fields. This whitepaper explores these concepts in two distinct domains: cybersecurity and medicine. Each showcases the unique ability of LLMs to enhance existing workflows and unlock new possibilities.
@@ -49,7 +49,7 @@ LLMs like Med-PaLM, customized for medical applications, demonstrate the ability
 
 # 
 
-## Day Five : Operationalizing Generative AI on Vertex AI using MLOps.
+## ![Day Five : Operationalizing Generative AI on Vertex AI using MLOps.](https://github.com/karima-ibrahim/Gemini-API/tree/main/Day-Five)
 
 #### Authors: Anant Nawalgaria, Gabriela Hernandez Larios, Elia Secchi, Mike Styer, Christos Aniftos and Onofrio Petragallo
 ### Introduction
@@ -57,7 +57,7 @@ The emergence of foundation models and generative AI (gen AI) has introduced a n
 This whitepaper delves into the fundamental tenets of MLOps and the necessary adaptations required for the domain of gen AI and Foundation Models. We also examine the diverse range of Vertex AI products, specifically tailored to address the unique demands of foundation models and gen AI-based applications. Through this exploration we uncover how Vertex AI, with its solid foundations of AI infrastructure and MLOps tools, expands its capabilities to provide a comprehensive MLOps platform for gen AI.
 #
 
-## Bonus day :
+## ![Bonus day :](https://github.com/karima-ibrahim/Gemini-API/tree/main/Bonus-Day)
 #### Auther: Mark McD
 - Integrating multimedia data (audio, video, and text).
 - Leveraging advanced capabilities.
