@@ -13,3 +13,4 @@ Build an agentic ordering system in LangGraph - https://www.kaggle.com/code/mark
 
 Learn to build sophisticated AI agents by understanding their core components and the iterative development process.
 The code labs cover how to connect LLMs to existing systems and to the real world. Learn about function calling by giving SQL tools to a chatbot, and learn how to build a LangGraph agent that takes orders in a café.
+#### Day 3’s  livestream - https://www.youtube.com/watch?v=HQUtMWoTAD4&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es&index=5
