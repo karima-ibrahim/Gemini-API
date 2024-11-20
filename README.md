@@ -1,4 +1,5 @@
 # Welcome to the Kaggle 5-day Generative AI course!
+![Gimini](https://github.com/user-attachments/assets/b42ba9a2-9206-40d2-a519-3054f5111f0c)
 
 
 
